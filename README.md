@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-前两天看了rematch，觉得很好用，故写来试试
+前两天看了 rematch，觉得很好用，故写来试试
 
-
+使用 rematch 之后，减少了 action type 的声明，增加了异步 action 的处理(即每个 model 中的 effects)
 
 ## Available Scripts
 
